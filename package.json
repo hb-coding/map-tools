@@ -16,9 +16,10 @@
     "format-espretty": "prettier-eslint \"src/**/*.{js,jsx}\""
   },
   "dependencies": {
-    "maplibre-gl": "^5.18.0",
+    "maplibre-gl": "^5.20.1",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "three": "^0.183.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
