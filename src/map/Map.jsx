@@ -9,7 +9,7 @@ function MapView() {
 
     const mapDisplay = new Map({
       style: "https://tiles.openfreemap.org/styles/liberty",
-      center: [13.388, 52.517],
+      center: [255.388, 39.817],
       zoom: 9.5,
       container: mapContainerRef.current,
     });
